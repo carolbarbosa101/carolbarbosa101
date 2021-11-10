@@ -3,7 +3,7 @@
 
 - 🔥 Desenvolvedora Front-End júnior 
 
-- 🔭 Crio publicações regularmente no Instagram @[carol_developer](https://www.instagram.com/carol_developer/)
+- 🔭 Uso o instagram @[carol_developer](https://www.instagram.com/carol_developer/) para inspirar as pessoas a seguirem a carreira DEV 
 
 - 💬 Estudo sobre **JavaScript, HTML, CSS, SQL, React e React Native**
 
