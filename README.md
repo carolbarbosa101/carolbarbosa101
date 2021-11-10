@@ -6,7 +6,7 @@
 - 🔭 Crio publicações regularmente no Instagram @[carol_developer](https://www.instagram.com/carol_developer/)
 
 - 💬 Estudo sobre **JavaScript, HTML, CSS, SQL, React e React Native**
-![Snake animation](https://github.com/carolbarbosa101/carolbarbosa101/blob/output/github-contribution-grid-snake.svg)
+
 ## ⚙️ &nbsp;Informações do meu Git
 
 <br>
@@ -16,7 +16,7 @@
 </p>
 
 <br>
-
+![Snake animation](https://github.com/carolbarbosa101/carolbarbosa101/blob/output/github-contribution-grid-snake.svg)
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <div> 
