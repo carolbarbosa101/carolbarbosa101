@@ -16,7 +16,9 @@
 </p>
 
 <br>
+
 ![Snake animation](https://github.com/carolbarbosa101/carolbarbosa101/blob/output/github-contribution-grid-snake.svg)
+
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <div> 
