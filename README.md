@@ -19,7 +19,7 @@
 
 ![Snake animation](https://github.com/carolbarbosa101/carolbarbosa101/blob/output/github-contribution-grid-snake.svg)
 
-## 👨🏽‍🦲 &nbsp;Redes Sociais
+## 👩‍💻 🏽‍🦲 &nbsp;Redes Sociais
 
 <div> 
   <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
