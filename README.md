@@ -8,7 +8,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carolbarbosa101&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolbarbosa101&bg_color=000000&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
