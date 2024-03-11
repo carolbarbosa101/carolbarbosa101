@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/981c01b9-4867-4ec3-891c-00e733c30572"/>
+<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
 
 <br>
 <br>
@@ -9,13 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I+graduated+in+Softwarer+Developer;I'm+from+Brazil;be+welcome%3A)](https://git.io/typing-svg)
 
-
 <div align=center widht=100%>
 
- 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=pink&widget_size=medium&dark=true) 
-
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=pink&widget_size=medium&dark=true) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
 
 </div>
 
