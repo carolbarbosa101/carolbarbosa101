@@ -20,7 +20,7 @@
   
 <img width="300px" height="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&hide_border=true" />
  
-<a href="https://instagram.com/carol_developer"> <img style="width: 100px; height: 100px;" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" ></a>
+<a href="https://instagram.com/carol_developer"  target="_blank"> <img style="width: 100px; height: 100px;" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" ></a>
 
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
