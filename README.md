@@ -16,13 +16,13 @@
 </div>
 
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; align-items: center; margin-bottom: 20px;"> 
-  
+
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+<!-- Imagem principal -->
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&hide_border=true" />
-</div> 
 
 
-<div style="display: flex; flex-direction: row; justify-content:center; align-items: center; margin-bottom: 20px;">
 <!-- Div agrupando os links das redes sociais -->
 <div style="display: flex; flex-direction: row;">
 <a href="https://instagram.com/carol_developer" target="_blank">
