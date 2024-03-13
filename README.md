@@ -18,13 +18,17 @@
 
 
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+
+ 
 <!-- Imagem principal -->
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&hide_border=true" />
+ <div>
+ <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&hide_border=true" />
+ </div>
 
 
-<!-- Div agrupando os links das redes sociais -->
-<div style="display: flex; flex-direction: row;">
+
+   <div style="display: flex; flex-direction: row;">
 <a href="https://instagram.com/carol_developer" target="_blank">
 <img margin-right="100%" height="65px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" style="margin-right: 20px;">
 </a>
@@ -44,6 +48,7 @@
 </a>
 </div>
 </div>
+
 
 
 
