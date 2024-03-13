@@ -16,16 +16,18 @@
 </div>
 
 
-
+<div  display: flex;> 
   
-<img width="50%" height="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&hide_border=true" />
-
+<img width="300px" height="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&hide_border=true" />
  
-<div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank"><img src="![image](https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b)"</a>
+<a href="https://instagram.com/carol_developer"> <img style="width: 100px; height: 100px;" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" ></a>
+
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
 <a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+
  </div>
  
  ### Main skills:
