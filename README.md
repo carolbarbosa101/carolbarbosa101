@@ -18,28 +18,25 @@
 
 
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; margin-bottom: 20px;">
-
- 
-<!-- Imagem principal -->
- <div>
- <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&hide_border=true" />
- </div>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Carol's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-   <div style="display: flex; flex-direction: row;">
+
+ <div style="display: flex; flex-direction: row;">
 <a href="https://instagram.com/carol_developer" target="_blank">
-<img margin-right="100%" height="65px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" style="margin-right: 20px;">
+<img margin-right="100%" height="65px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" style="margin-right: 10px;">
 </a>
 
 
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
-<img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0" style="margin-right: 20px;">
+<img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0" style="margin-right: 10px;">
 </a>
 
 <a href="mailto:cmp.1a.caroline@gmail.com">
-<img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0" style="margin-right: 20px;">
+<img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0" style="margin-right: 10px;">
 </a>
 
 
