@@ -4,47 +4,53 @@
 <br>
 <br>
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I+graduated+in+Softwarer+Developer;I'm+from+Brazil;be+welcome%3A)](https://git.io/typing-svg)
 
-<div align=center widht=100%>
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+<br>
+<br>
 
+  
+<div  align=center widht=100% >
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&layout=compact&hide_border=true" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Carol's github stats" /></a> 
 </div>
 
 
-
-
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Carol's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&theme=radical&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
- <div style="display: flex; flex-direction: row;">
+  
+<div align=center  justify-content=space-between>
 <a href="https://instagram.com/carol_developer" target="_blank">
-<img margin-right="100%" height="65px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" style="margin-right: 10px;">
+<img margin-right="100%" height="65px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
 
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
-<img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0" style="margin-right: 10px;">
+<img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
 </a>
 
+
+
 <a href="mailto:cmp.1a.caroline@gmail.com">
-<img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0" style="margin-right: 10px;">
+<img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
+
 
 
 <a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank">
 <img height="60px" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
+
+<div>
+ 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+
 </div>
 </div>
+
+
+
+
+
 
 
 
